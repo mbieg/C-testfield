@@ -1,0 +1,1 @@
+/usr/bin/cc "CMakeFiles/C-testfield.dir/main.c.o" -o C-testfield 

@@ -1,0 +1,3 @@
+/workspaces/C-testfield/build/CMakeFiles/C-testfield.dir
+/workspaces/C-testfield/build/CMakeFiles/edit_cache.dir
+/workspaces/C-testfield/build/CMakeFiles/rebuild_cache.dir
